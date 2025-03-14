@@ -8,7 +8,7 @@
 
 ## API
 
-我们提供了一个API以便捷的获取其数据：`https://gd.moyanjdc.top`
+我们提供了一个API以便捷的获取其数据：`https://gd.moyanjdc.top`。请不要攻击该网站，切勿用作商业用途。
 
 ## 如何贡献
 
